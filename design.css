@@ -1,0 +1,39 @@
+body {
+    background-color: #C4CDD4;
+}
+
+h1 {
+    text-align: center;
+    color: #FF6600;
+    text-underline-position: below;
+}
+
+#status {
+    text-align: right;
+    color: #808182;
+}
+
+#listeEintraege {
+    align-items: center;
+    border-radius: 10px;
+    list-style-type: none;
+    max-width: 500px;
+    margin: 10px auto;
+    background-color: #EEF0F4;
+}
+
+.logMessage {
+    color: #C8C9CA;
+}
+
+.message {
+    font-weight: 300;
+}
+
+.nickName {
+    font-weight: 900;
+}
+
+.l {
+    display: inline;
+}
